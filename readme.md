@@ -1,8 +1,10 @@
 OpenSplat
 =============
-OpenSplat is an Splatoon like open-source game aiming to recreate as much as possible the original splatoon experience but with new unique features.
+OpenSplat is an Splatoon open-source rewrite aiming to recreate as much as possible the original game experience but with new unique features.
 
 Ink for everyone!
+
+The dedicated server can be found in the opensplat-server repository
 
 ### Planned features
 ##### Original game features

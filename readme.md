@@ -1,6 +1,6 @@
 OpenSplat
 =============
-OpenSplat is an Splatoon open-source rewrite aiming to recreate as much as possible the original game experience but with new unique features.
+OpenSplat is an Splatoon open-source engine aiming to recreate as much as possible the original game experience with new unique features.
 
 Ink for everyone!
 
@@ -12,7 +12,7 @@ The dedicated server can be found in the opensplat-server repository
 * Cover your territory with your team ink
 * Hide yourself in your team's ink
 * Liquidate your opponents
-* Buy weapons / clothing stuff (even without internet connection!)
+* Buy weapons / clothing stuff
 * Turf war
 * Salmon run
 
@@ -21,7 +21,7 @@ The dedicated server can be found in the opensplat-server repository
 * Have a timeless walk in any stage (AKA recon mode plus)
 * Train yourself by playing with bots
 * Match-making using your custom server or federated ones
-* Stages level editor
+* Stages level editor (Any Quake3 like map editor such as J.A.C.K Editor or GtkRadiant will work)
 * Stuff editor
 
 ### Done features

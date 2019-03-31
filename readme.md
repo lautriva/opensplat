@@ -1,42 +1,43 @@
 OpenSplat
 =============
-OpenSplat is an Splatoon open-source engine aiming to recreate as much as possible the original game experience with new unique features.
-
-Ink for everyone!
+OpenSplat is an open-source shooter when you will have to splat your opponents to liquidate them
+You can transform to a reduced form to pass through obstacles or dive into your own paint, but beware the ennemies' one!
 
 The dedicated server can be found in the opensplat-server repository
 
-### Planned features
-##### Original game features
-* Personalize your character (species, genre, colour, etc...)
-* Cover your territory with your team ink
-* Hide yourself in your team's ink
-* Liquidate your opponents
-* Buy weapons / clothing stuff
-* Turf war
-* Salmon run
+### Features
+##### Main features
+* Cover your territory with your team paint
+* Liquidate your opponents with a wide-range of weapons
+* Transform and hide yourself in your team's paint
+* Customize your character (genre, colour, etc...)
+* Buy weapons / clothing stuff for the style but also to get power-ups
 
-##### Unique features
-* Play in first-person mode (inkarnation!)
-* Have a timeless walk in any stage (AKA recon mode plus)
-* Train yourself by playing with bots
+##### Game modes
+* Campaign: Play in single-player to save the world!
+* Turf war: The winning team is the team who have spread more paint in the map
+* Events: Work in progress, more informations available in the Zone :)
+
+##### Other features
 * Match-making using your custom server or federated ones
-* Stages level editor (Any Quake3 like map editor such as J.A.C.K Editor or GtkRadiant will work)
-* Stuff editor
+* Switch between first-person / third-person mode
+* You can create (Any Quake3 like map editor such as J.A.C.K Editor or GtkRadiant will work)
 
 ### Done features
 * Uhm... nothing... for the moment
+* Still working on the core game engine
 
-### Contributions
+### Hey, you look like that other game!
+Many FPS look like same. Does that mean that all FPS are the same game?
+
+### Did you copy-paste that other game code / artwork?
+OpenSplat have been entirely made from scratch. Nothing (except few ideas, no more) were taken from that game
+About the artwork, they are either home-made or gathered from royalty-free sources
+No Trademark / Intellectual properties were harmed during the making-of this game :)
+
+### Contributions guidelines
+* We are open to any new ideas :)
 * Don't know how to code? Not a problem, you can still make wonderful artwork
 * Minimum supported C++ revision must be C++0x
-* Please use CMake (Any modern EDI should be generate one for you)
+* Please use CMake (Any modern EDI should generate one for you)
 * Your code must be cross-platform
-* We are open to any new ideas :)
-
-### Disclaimer
-This repository is neither owned by, nor affiliated with Nintendo or any creators of Splatoon in any way.
-
-To avoid any copyright infringement, only free / CC assets (maps / models / sounds) will be accepted in the repository.
-
-If you want to use the original ones, you have to gather / convert them by yourself.

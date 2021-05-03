@@ -19,25 +19,26 @@ The dedicated server can be found in the opensplat-server repository
 * Events: Work in progress, more informations available in the Zone :)
 
 ##### Other features
-* Match-making using your custom server or federated ones
+* Match-making using official / federated servers or your custom one
 * Switch between first-person / third-person mode
-* You can create (Any Quake3 like map editor such as J.A.C.K Editor or GtkRadiant will work)
+* You can create levels (Any Quake3 like map editor such as J.A.C.K Editor or GtkRadiant will work, just use the FGD in `mapping` folder)
 
 ### Done features
 * Uhm... nothing... for the moment
-* Still working on the core game engine
+* Still working on the game engine (Oxygen Engine, coming soon)
 
-### Hey, you look like that other game!
+### Hey, you look like that other squid game!
 Many FPS look like same. Does that mean that all FPS are the same game?
 
 ### Did you copy-paste that other game code / artwork?
-OpenSplat have been entirely made from scratch. Nothing (except few ideas, no more) were taken from that game
+OpenSplat have been entirely made from scratch. Nothing were taken from that game (except a few ideas, no more)
 About the artwork, they are either home-made or gathered from royalty-free sources
-No Trademark / Intellectual properties were harmed during the making-of this game :)
+No Trademark / Intellectual properties were harmed during the making of this game
 
 ### Contributions guidelines
 * We are open to any new ideas :)
-* Don't know how to code? Not a problem, you can still make wonderful artwork
-* Minimum supported C++ revision must be C++0x
-* Please use CMake (Any modern EDI should generate one for you)
-* Your code must be cross-platform
+* Don't know how to code? Not a problem, you can still probably make wonderful artworks / ideas / levels
+* Minimum supported C++ revision must be C++17
+* Targetted OpenGL version must `3.3 Core`
+* Please use CMake (Any modern IDE should generate one for you)
+* Your code must be cross-platform (Windows / Linux is the minimum)
